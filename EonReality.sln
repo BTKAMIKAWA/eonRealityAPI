@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29512.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EonReality", "EonReality\EonReality.csproj", "{BF2070E3-4B8D-402F-993A-4495E1F2CA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2070E3-4B8D-402F-993A-4495E1F2CA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2070E3-4B8D-402F-993A-4495E1F2CA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2070E3-4B8D-402F-993A-4495E1F2CA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2070E3-4B8D-402F-993A-4495E1F2CA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E72EA70D-1E7B-4133-9F3B-E6549154EDA1}
+	EndGlobalSection
+EndGlobal
